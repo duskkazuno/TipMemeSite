@@ -1,0 +1,40 @@
+.rowDiv {
+	display: block;
+	margin: 0 auto;
+}
+
+.tipButton {
+	display: inline-block;
+  	width: 30%;
+	height: 30%;
+  	padding: 0;
+  	background-color: #FAFBFD;
+	border: 2px solid #C3C4C6;
+  	border-radius: 5px;	
+  	margin: 1%;
+}
+
+.tipButtonWide {
+	display: inline-block;
+	width: 95%;
+	height: 30%;
+  	padding: 0;
+  	background-color: #FAFBFD;
+	border: 2px solid #C3C4C6;
+  	border-radius: 5px;
+  	margin-left: 1%;
+  	margin-right: 1%;
+}
+
+.tipTextP {
+	display: block;
+    text-align: center;
+    color: #3696C0;
+
+}
+
+.tipTextD {
+	display: block;
+    text-align: center;
+    color: #A2A3A5;
+}
